@@ -1,6 +1,7 @@
 # nodejs-simple
 A very simple nodejs boilerplate with express,jquery.
-#How to use
+
+# How to use
 1. npm install 
 
 (if you get issue with proxy:  
